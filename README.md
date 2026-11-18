@@ -16,3 +16,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-18 · update 11: add release steps
 - 2026-11-18 · update 12: add issue labels
 - 2026-11-18 · update 13: add discussion rules
+- 2026-11-18 · update 14: add security contact
