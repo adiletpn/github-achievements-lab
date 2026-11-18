@@ -13,3 +13,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-18 · update 8: add review checklist
 - 2026-11-18 · update 9: add testing notes
 - 2026-11-18 · update 10: add CI notes
+- 2026-11-18 · update 11: add release steps
