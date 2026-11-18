@@ -11,3 +11,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-18 · update 6: add commit conventions
 - 2026-11-18 · update 7: add branch naming
 - 2026-11-18 · update 8: add review checklist
+- 2026-11-18 · update 9: add testing notes
