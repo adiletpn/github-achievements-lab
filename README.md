@@ -5,3 +5,4 @@ Lab repository for GitHub profile achievements
 
 - 2026-11-18 · update 1: add 
 - 2026-11-18 · update 2: add project overview
+- 2026-11-18 · update 3: add setup notes
