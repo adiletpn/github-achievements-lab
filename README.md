@@ -24,3 +24,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-19 · update 19: add review etiquette
 - 2026-11-19 · update 20: add commit message style
 - 2026-11-19 · update 21: add code owners note
+- 2026-11-19 · update 22: add testing checklist
