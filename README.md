@@ -33,3 +33,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-19 · update 28: add docs structure
 - 2026-11-19 · update 29: add glossary
 - 2026-11-19 · update 30: add faq section
+- 2026-11-19 · update 31: add support policy
