@@ -27,3 +27,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-19 · update 22: add testing checklist
 - 2026-11-19 · update 23: add lint rules
 - 2026-11-19 · update 24: add env setup
+- 2026-11-19 · update 25: add release notes format
