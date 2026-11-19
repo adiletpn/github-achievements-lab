@@ -38,3 +38,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-19 · update 33: add dependency policy
 - 2026-11-19 · update 34: add branch protection
 - 2026-11-19 · update 35: add ci matrix
+- 2026-11-19 · update 36: add changelog format
