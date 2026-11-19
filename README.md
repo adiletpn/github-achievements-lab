@@ -36,3 +36,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-19 · update 31: add support policy
 - 2026-11-19 · update 32: add security policy
 - 2026-11-19 · update 33: add dependency policy
+- 2026-11-19 · update 34: add branch protection
