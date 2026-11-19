@@ -30,3 +30,4 @@ Lab repository for GitHub profile achievements
 - 2026-11-19 · update 25: add release notes format
 - 2026-11-19 · update 26: add issue triage
 - 2026-11-19 · update 27: add labels guide
+- 2026-11-19 · update 28: add docs structure
